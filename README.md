@@ -1,5 +1,31 @@
+<!--- GITHUB PROFILE :P --->
 
-<!---
-AdrianZamoraSanchez/AdrianZamoraSanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 ¡Hola! Soy Adrián Zamora Sánchez 👋
+Soy un estudiante de Ingeniería Informática de la [Universidad de Burgos](https://www.ubu.es/). 
+
+## 🎯 Actualmente trabajando en:  
+- TFG: construir un lenguaje de programación con ANTLR.
+- Proyecto personal de un sistema embebido de detección por ondas.
+
+## 💻 Me interesan:  
+- Sistemas embebidos
+- Compiladores
+- Arquitectura de computadores
+- Ciencia de datos
+- Y mucho mucho más!
+
+## 📚 Tecnologías que conozco 
+- Mis lenguajes principales son Java, C/C++, Python y JavaScript.
+- Gestión de bases de datos relacionales como MySQL o PostgreSQL y no relacionales como MongoDB.
+- Herramientas de generación de código como Flex, Bison y ANTLR.
+- Gestión de sistemas con Bash, Docker y gestión CI/CD. 
+
+<!-- 
+## 🔧 Proyectos destacados
+
+- 🧠 [TFG - Lenguaje con ANTLR](https://github.com/...)  
+  Compilador simple para un lenguaje personalizado
+
+- 🛩️ [Paper Plane Radar](https://github.com/...)  
+  Sistema embebido con Raspberry Pi para seguimiento básico de objetos
+  -->
