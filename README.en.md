@@ -6,7 +6,7 @@
 I'm a Computer Engineering student at the [University of Burgos](https://www.ubu.es/).
 
 ## 🎯 Currently working on:  
-- Bachelor's thesis: building a programming language using ANTLR.  
+- My Bachelor's thesis.
 - A personal project: an embedded system for wave-based object detection.
 
 ## 💻 I'm interested in:  
