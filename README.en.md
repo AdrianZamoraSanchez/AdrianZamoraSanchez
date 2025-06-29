@@ -1,7 +1,7 @@
 <!--- GITHUB PROFILE :P --->
 
 # 👋 Hi! I'm Adrián Zamora Sánchez 👋
-> Ver perfil en [🇪🇸 Español](README.md)
+> [🇪🇸 Ver perfil en Español](README.md)
 
 I'm a Computer Engineering student at the [University of Burgos](https://www.ubu.es/).
 
