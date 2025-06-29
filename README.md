@@ -6,7 +6,7 @@
 Soy un estudiante de Ingeniería Informática de la [Universidad de Burgos](https://www.ubu.es/). 
 
 ## 🎯 Actualmente trabajando en:  
-- TFG: construir un lenguaje de programación con ANTLR.
+- Mi TFG
 - Proyecto personal de un sistema embebido de detección por ondas.
 
 ## 💻 Me interesan:  
