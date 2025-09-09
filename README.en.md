@@ -12,7 +12,7 @@ I'm a Computer Engineering student at the [University of Burgos](https://www.ubu
 ## 💻 I'm interested in:  
 - Embedded systems  
 - Compilers  
-- Computer architecture  
+- Web Development
 - Data science  
 - And so much more!
 
