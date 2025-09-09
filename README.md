@@ -12,7 +12,7 @@ Soy un estudiante de Ingeniería Informática de la [Universidad de Burgos](http
 ## 💻 Me interesan:  
 - Sistemas embebidos
 - Compiladores
-- Arquitectura de computadores
+- Desarrollo web
 - Ciencia de datos
 - Y mucho mucho más!
 
