@@ -7,7 +7,7 @@ I'm a Computer Engineering student at the [University of Burgos](https://www.ubu
 
 ## 🎯 Currently working on:  
 - My Bachelor's thesis.
-- A personal project: an embedded system for wave-based object detection.
+- Learning embedded systems on STM32.
 
 ## 💻 I'm interested in:  
 - Embedded systems  
