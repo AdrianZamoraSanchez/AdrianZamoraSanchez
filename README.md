@@ -19,7 +19,7 @@ Soy un estudiante de Ingeniería Informática de la [Universidad de Burgos](http
 ## 📚 Tecnologías que conozco 
 - Mis lenguajes principales son Java, C/C++, Python y JavaScript.
 - Gestión de bases de datos relacionales como MySQL o PostgreSQL y no relacionales como MongoDB.
-- Herramientas de generación de código como Flex, Bison y ANTLR.
+- Herramientas de como Git/GitHub, STM32, LLVM, etc.
 - Gestión de sistemas con Bash, Docker y gestión CI/CD. 
 
 <!-- 
