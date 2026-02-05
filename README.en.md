@@ -19,5 +19,5 @@ I'm a Computer Engineering student at the [University of Burgos](https://www.ubu
 ## 📚 Technologies I’m familiar with  
 - My main programming languages are Java, C/C++, Python, and JavaScript.  
 - Experience with relational databases like MySQL and PostgreSQL, and NoSQL ones like MongoDB.  
-- Code generation tools like Flex, Bison, and ANTLR.  
+- Code generation tools Git/Github, STM32, ANTLR, etc.  
 - System management with Bash, Docker, and basic CI/CD workflows.
