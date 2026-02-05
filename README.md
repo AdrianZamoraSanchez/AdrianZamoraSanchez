@@ -7,7 +7,7 @@ Soy un estudiante de Ingeniería Informática de la [Universidad de Burgos](http
 
 ## 🎯 Actualmente trabajando en:  
 - Mi TFG
-- Proyecto personal de un sistema embebido de detección por ondas.
+- Aprendiendo sistemas embebidos en STM32.
 
 ## 💻 Me interesan:  
 - Sistemas embebidos
