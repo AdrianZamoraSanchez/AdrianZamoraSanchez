@@ -12,9 +12,7 @@ I'm a Computer Engineering student at the [University of Burgos](https://www.ubu
 ## 💻 I'm interested in:  
 - Embedded systems  
 - Compilers  
-- Web development
 - Data science  
-- And so much more!
 
 ## 📚 Technologies I’m familiar with  
 - My main programming languages are Java, C/C++, Python, and JavaScript.  
