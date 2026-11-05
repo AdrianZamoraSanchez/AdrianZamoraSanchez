@@ -12,9 +12,7 @@ Soy un estudiante de Ingeniería Informática de la [Universidad de Burgos](http
 ## 💻 Me interesan:  
 - Sistemas embebidos
 - Compiladores
-- Desarrollo web
 - Ciencia de datos
-- Y mucho mucho más!
 
 ## 📚 Tecnologías que conozco 
 - Mis lenguajes principales son Java, C/C++, Python y JavaScript.
